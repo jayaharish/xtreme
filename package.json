@@ -12,7 +12,12 @@
     "react-icons": "^3.9.0",
     "react-scripts": "3.4.1",
     "react-spring": "^8.0.27",
-    "react-use-gesture": "^7.0.13"
+    "react-use-gesture": "^7.0.13",
+    "serve": "^11.3.0"
+  },
+  "engines":{
+    "node" : "10.16.x",
+    "npm" : "6.9.x",
   },
   "scripts": {
     "start": "react-scripts start",
